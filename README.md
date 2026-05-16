@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template
 
-- [Read the documentation for project](docs/info.md)
+- The Wowki Template was copied for demo purposes
 
 ## What is Tiny Tapeout?
 
